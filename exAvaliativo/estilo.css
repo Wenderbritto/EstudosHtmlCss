@@ -1,0 +1,21 @@
+p{
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: left;
+}
+.paragrafo{
+    font-size: 18px;
+    color: orange;
+}
+#titulo3{
+    color: pink;
+
+}
+h1,h2,h3{
+    text-align: center;
+}
+
+.lista{
+    border: 1px solid black;
+    background-color: slategrey;
+}
