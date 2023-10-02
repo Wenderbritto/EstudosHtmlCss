@@ -1,19 +1,94 @@
+html{
+    height: 100%;
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(69, 61, 211);
+}
+
 .content{
-    background-color: aqua;
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 55px;
+    height: 50%;
+    width: 85%;
+    padding: 50px;
+    max-width: 900px;
+    background-color: white;
+    
 }
 
 .menu{
-    background-color: bisque;
+    display: flex;
+    justify-content: flex-end;
+    overflow: hidden;
+    margin-bottom: 25px;
+    padding-right: 25px;
+    
+    
+    
+}
+a{
+    font-size: 20px;
+    margin: 10px 20px;
+    font-weight: bold;
+    text-decoration: none;
+    color:  rgb(69, 61, 211);
+
 }
 
 .corpo{
-    background-color: blue;
+    display: flex;
+    height: 90%;
+    background-color: white;
+    
 }
 
 .texto{
-    background-color: rgb(145, 83, 83);
+    width: 50%;
+    padding-top: 5%;
+    
 }
 
 .imagem{
-    background-color: blueviolet;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    
+
+}
+.img{
+    width: 100%;
+    margin-top: 10px;
+}
+h1{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+p{
+    font-size: 18px;
+}
+
+button{
+    font-size: 18px;
+    height: 30px;
+    border-radius: 6px;
+    font-weight: bold;
+    border: rgb(61, 69, 211);
+}
+
+.agendamentos{
+    margin-left: 40px;
+    color: white;
+    background-color: rgb(61, 69, 211);
+}
+
+.orcamentos{
+    margin-left: 40px;
+    color: white;
+    background-color:  rgb(61, 69, 211);
 }
