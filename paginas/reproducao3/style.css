@@ -1,0 +1,159 @@
+html {
+    height: 100%;
+    width: 100%;
+    background-color: black;
+  }
+
+
+   .parSuperior{
+     display: flex;
+     justify-content: flex-end;
+     border-bottom: 8px solid rgb(255, 255, 255);
+     
+   }
+
+
+
+   #ajuda{
+    color: red;
+   }
+
+
+   .fs{
+    color: red;
+   }
+
+
+   .cartaz{
+    color: red;
+   }
+
+
+  #login{
+    background-color: red;
+    padding: 10px 20px;
+    color: black;
+  }
+
+
+  .parSuperior > a{
+    padding: 10px;
+    margin: 0px 10px;
+    text-decoration: none;
+  }
+  
+
+  .inicio{
+    margin-top: 10px;
+    display: flex;
+    
+  }
+  
+
+  .inicio > img{
+    margin-top: -5px;
+    margin-right: 5px;
+    width: 30px;
+    height: 30px;
+  }
+
+  
+  .inicio > select{
+    height: 20px;
+  }
+
+
+  .inicio > input{
+    margin: 0px 5px;
+    height: 14px;
+  }
+
+  
+  #pesquisa{
+    margin: 0px 10px;
+    color: red;
+  }
+
+
+  #titulo{
+    margin-right: 10%;
+    margin-top: 0px;
+    color: red;
+  }
+
+  
+  .meio{
+    padding: 10px 20px;
+    background-color:white;
+    
+  }
+
+  #filser{
+    color: black;
+  }
+
+  #assi{
+    color: black;
+  }
+
+  .meio > a{
+    margin: 0px 10px;
+    color: red;
+    text-decoration: none;
+  }
+
+
+  .corpo{
+    margin-top: 20px;
+    background-color: black;
+    display: flex;
+  }
+
+
+  .texto{
+    padding: 30px;
+    color: red;
+  }
+
+
+  .texto > button{
+    width: 120px;
+    height: 40px;
+    background-color: black;
+    border: 1px solid white;
+    color: red;
+  }
+
+
+  #capa{
+    width: 400px;
+  }
+
+  .rodape{
+    padding: 20px;
+    color: red;
+    display: flex;
+    
+  }
+
+
+  .promocao{
+    
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+
+  .f1{
+    border: 1px solid white;
+  }
+
+
+  .f2{
+    border: 1px solid white;
+  }
+
+
+  .f3{
+    border: 1px solid white;
+  }
+
