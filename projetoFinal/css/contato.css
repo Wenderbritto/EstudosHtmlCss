@@ -1,0 +1,150 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 50px;
+    text-align: center;
+    
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: lighter;
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(65, 63, 63);
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+
+/*Menu*/
+
+.header{
+    width: 100%;
+    height: 70px;
+    background-color: red;
+    padding: 10px;
+}
+
+.meu-topo{
+    text-align: right;
+}
+
+.meu-topo li{
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.meu-topo a{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;  
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+
+}
+
+.meu-topo li a:hover{
+    transition: 0.7s all;
+    color: black;
+}
+
+/*Formulario pedido*/
+
+.form label{
+    display: block;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 20px;
+    margin-top: 30px;
+    text-transform: uppercase;
+}
+
+.form input{
+    display: block;
+    width: 100%;
+    border: 3px solid red;
+    color: black;
+    padding: 4px;
+    margin-top: 10px;
+    font-size: 15px;
+    outline: none;
+}
+
+.form textarea{
+    display: block;
+    width: 100%;
+    border: 3px solid red;
+    padding: 4px;
+    margin-top: 10px;
+    font-size: 15px;
+}
+
+
+.form button{
+    background-color: red;
+    padding: 10px 25px;
+    margin-top: 10px;
+    color: white;
+    border: 0;
+    font-size: 15px;
+}
+
+.form button:hover{
+    background-color: black;
+    color: white;
+}
+
+.im{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.p-serv{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.localizacao{
+    margin-bottom: 40px;
+}
+
+/*Rodape*/
+
+.rodape{
+    height: 180px;
+    background-color: red;
+}
+
+.rodape h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 20px;
+    text-align: left;
+    color: white;
+
+}
+
+.rodape p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: lighter;
+    text-align: left;
+    text-transform: unset;
+    color: white;
+    margin-top: 20px;
+
+}
+
+.logo{
+    margin-top: 20px;
+}

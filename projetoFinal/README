@@ -1,0 +1,11 @@
+DESCRIÇÃO DO PROJETO
+
+    No desenvolvimento do projeto foram utilizados links, formulários, listas, botões, imagens, etc. Para fazer o design do site utilizei o Normalize.css que ajuda os navegadores processarem todos os elementos de maneira mais consistente. Foi utilizado também o Rezet.css que reduz as inconsistências do navegador em itens como alturas de linha padrão, margens e tamanhos. E também foi utilizado o Grid.css que é uma forma de criar layouts de páginas de maneira mais "simples", pois ele é baseado em grade com linhas e colunas. Normalize.css, Rezet.css e Grid.css estão na pasta do css. 
+        
+    Na tela de Início está apresentando o restaurante, na parte superior tem quatro links ancorados para as outras páginas do site, possibilitando a nevegação entre elas. Um pouco mais embaixo está a parte dos serviços que o restaurante oferece, logo depois tem a sua principal marca e se o usuário passar o cursor do mouse na marca ela tem um efeito de zoom. Depois tem o sobre a empresa e por fim o rodapé, onde tem três imagens de redes sociais que são clicáveis, porém não está configurada para quando for clicada levar para a rede social da empresa.
+        
+    Na tela de Pedido é onde os clientes vão fazer os seus pedidos, na parte superior também tem os quatro links ancorados com as demais páginas, e tem um formulário onde o cliente vai preencher com suas informações pessoais e qual o pedido que deseja realizar, e logo depois tem um botão "Enviar", que seria para enviar o pedido realizado pelo cliente, porém ele só está como exemplificação.
+
+    Na tela Sobre Nós tem um texto contando um pouco sobre a empresa e uma imagem ao lado, nela também tem os links ancorados e o rodapé. 
+
+    Na tela Contato, assim como as outras tem os links ancorados e o rodapé. Nela também um formulário onde o cliente pode enviar sua solicitação para empresa, e o botão "Enviar", também está apenas como exemplificação. E descendo mais um pouco tem o endereço da loja, que mostra um mapa na página com o endereço do restaurante e clicando sobre ele é direcionado para o google maps com o endereço do restaurante.

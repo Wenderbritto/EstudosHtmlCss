@@ -1,0 +1,109 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 50px;
+    text-align: center;
+    
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: lighter;
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(65, 63, 63);
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+
+/*Menu*/
+
+.header{
+    width: 100%;
+    height: 70px;
+    background-color: red;
+    padding: 10px;
+}
+
+.meu-topo{
+    text-align: right;
+}
+
+.meu-topo li{
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.meu-topo a{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;  
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+
+}
+
+.meu-topo li a:hover{
+    transition: 0.7s all;
+    color: black;
+}
+
+/*Sobre nos*/
+
+.historia{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    line-height: 22px;
+    text-transform: inherit;
+
+}
+
+.sobrenos img{
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
+/*Rodape*/
+
+.rodape{
+    height: 150px;
+    background-color: red;
+}
+
+.rodape h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 20px;
+    text-align: left;
+    color: white;
+
+}
+
+.rodape p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: lighter;
+    text-align: left;
+    text-transform: unset;
+    color: white;
+    margin-top: 20px;
+
+}
+
+.logo{
+    margin-top: 20px;
+}
